@@ -1,0 +1,7 @@
+certs/
+*.crt
+*.key
+*.pem
+.env
+.DS_STORE
+.git

@@ -1,4 +1,4 @@
-Required commands for compile/execution of go code.
+## Required commands for compile/execution of go code.
 
 # Create module
 - go mod init
